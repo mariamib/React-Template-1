@@ -1,0 +1,21 @@
+@use '../colors' as*;
+.contact-p
+{
+    background-color: $background-color;
+    
+   .info
+   {
+    li 
+    {
+        color:$btn-fade;
+        &:hover
+        {
+            color:black;
+        }
+        label 
+        {
+            color:#011628;
+        }
+    }
+   }
+}

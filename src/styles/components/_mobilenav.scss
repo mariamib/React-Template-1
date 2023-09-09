@@ -1,0 +1,7 @@
+@use '../colors' as * ;
+.mobile-nav
+{
+    background-color: $background-color;
+    top:70px;
+    z-index: 2;
+}

@@ -1,0 +1,16 @@
+@use '../colors' as *;
+.button
+{
+    button
+    {
+        background-color: #D94948;
+        border-radius: 30px;
+        padding: 0.7rem 1.5rem;
+        font-weight: 600;
+        color:white;
+        &:hover
+        {
+            background-color: $btn
+        }
+    }
+}

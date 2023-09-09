@@ -1,0 +1,9 @@
+@use '../colors' as *;
+.services-p
+{
+    background-color: $background-color;
+    p 
+    {
+        line-height: 28px;
+    }
+}
