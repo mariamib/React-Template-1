@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Template-1/static/css/main.f86b95ce.css",
+    "main.js": "/React-Template-1/static/js/main.61eb2574.js",
+    "static/media/bg-09-free-img.jpg": "/React-Template-1/static/media/bg-09-free-img.602bbd9e80c9c3a729b8.jpg",
+    "static/media/bg-08-free-img.jpg": "/React-Template-1/static/media/bg-08-free-img.4b035042e6f0573eb872.jpg",
+    "static/media/bg-05-free-img.jpg": "/React-Template-1/static/media/bg-05-free-img.524821091380b294f125.jpg",
+    "static/media/sn-man-jumping.jpg": "/React-Template-1/static/media/sn-man-jumping.484b8470385cd061ce3f.jpg",
+    "static/media/bg-04-free-img.jpg": "/React-Template-1/static/media/bg-04-free-img.274bfbf7e2d18650cc60.jpg",
+    "static/media/img-01-free-img.jpg": "/React-Template-1/static/media/img-01-free-img.73add015869575daddf5.jpg",
+    "static/media/img-07-free-img.jpg": "/React-Template-1/static/media/img-07-free-img.c9d6109df48af8759420.jpg",
+    "static/media/img-09-free-img.jpg": "/React-Template-1/static/media/img-09-free-img.414d137be2053874e250.jpg",
+    "static/media/bg-03-free-img.jpg": "/React-Template-1/static/media/bg-03-free-img.6d434c82d89d93376dc0.jpg",
+    "static/media/img-06-free-img.jpg": "/React-Template-1/static/media/img-06-free-img.f337e73a8005e54a8bde.jpg",
+    "static/media/img-08-free-img.jpg": "/React-Template-1/static/media/img-08-free-img.693fc39d8bff55d1ecd7.jpg",
+    "static/media/img-04-free-img.jpg": "/React-Template-1/static/media/img-04-free-img.cc0a5fee4b06fc628ff7.jpg",
+    "static/media/img-02-free-img.jpg": "/React-Template-1/static/media/img-02-free-img.379150dc12b835bee23b.jpg",
+    "static/media/sierra_nature_logo.svg": "/React-Template-1/static/media/sierra_nature_logo.067642c19bcf83c13859766828a41415.svg",
+    "index.html": "/React-Template-1/index.html",
+    "main.f86b95ce.css.map": "/React-Template-1/static/css/main.f86b95ce.css.map",
+    "main.61eb2574.js.map": "/React-Template-1/static/js/main.61eb2574.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f86b95ce.css",
+    "static/js/main.61eb2574.js"
+  ]
+}
